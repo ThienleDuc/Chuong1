@@ -1,0 +1,6 @@
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\obj\Debug\op_enum.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\bin\Debug\op_enum.exe.config
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\bin\Debug\op_enum.exe
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\bin\Debug\op_enum.pdb
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\obj\Debug\op_enum.exe
+D:\WORKSPACE\LTCs\Chuong1\op_enum\op_enum\obj\Debug\op_enum.pdb
