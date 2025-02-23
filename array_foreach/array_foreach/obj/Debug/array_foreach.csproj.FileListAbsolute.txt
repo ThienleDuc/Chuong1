@@ -1,0 +1,6 @@
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\bin\Debug\array_foreach.exe.config
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\bin\Debug\array_foreach.exe
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\bin\Debug\array_foreach.pdb
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\obj\Debug\array_foreach.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\obj\Debug\array_foreach.exe
+D:\WORKSPACE\LTCs\Chuong1\array_foreach\array_foreach\obj\Debug\array_foreach.pdb
