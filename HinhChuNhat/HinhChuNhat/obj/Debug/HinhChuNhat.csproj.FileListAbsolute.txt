@@ -1,0 +1,6 @@
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe.config
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.exe
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\bin\Debug\HinhChuNhat.pdb
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.exe
+D:\WORKSPACE\LTCs\Chuong1\HinhChuNhat\HinhChuNhat\obj\Debug\HinhChuNhat.pdb
