@@ -1,0 +1,7 @@
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\bin\Debug\DiemMauXY.exe.config
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\bin\Debug\DiemMauXY.exe
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\bin\Debug\DiemMauXY.pdb
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\obj\Debug\DiemMauXY.csproj.AssemblyReference.cache
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\obj\Debug\DiemMauXY.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\obj\Debug\DiemMauXY.exe
+D:\WORKSPACE\LTCs\Chuong1\DiemMauXY\DiemMauXY\obj\Debug\DiemMauXY.pdb
