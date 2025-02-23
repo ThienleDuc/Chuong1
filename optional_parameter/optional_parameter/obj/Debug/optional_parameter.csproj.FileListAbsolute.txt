@@ -1,0 +1,7 @@
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\bin\Debug\optional_parameter.exe.config
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\bin\Debug\optional_parameter.exe
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\bin\Debug\optional_parameter.pdb
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\obj\Debug\optional_parameter.csproj.AssemblyReference.cache
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\obj\Debug\optional_parameter.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\obj\Debug\optional_parameter.exe
+D:\WORKSPACE\LTCs\Chuong1\optional_parameter\optional_parameter\obj\Debug\optional_parameter.pdb
